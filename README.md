@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Salut, moi c'est HAMOUCH Younes ! 
 
-<!--
-**HAMOUCH-Younes/HAMOUCH-Younes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Je travaille actuellement sur :  
+Un système innovant de gestion de réservation d'hôtels.    
 
-Here are some ideas to get you started:
+🤝 Je cherche à collaborer sur :  
+Des projets open-source en JavaScript, React.js et laravel.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 J'apprends en ce moment :  
+Laravel et les meilleures pratiques de gestion d’état avec Redux.  
+
+💬 N'hésite pas à me poser des questions sur :  
+Le développement Full-Stack et l'architecture des applications web !  
+
+🎾 Fun fact :  
+Je suis un grand fan de sport et j'adore relever de nouveaux défis !  
